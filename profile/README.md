@@ -22,7 +22,7 @@ We craft digital experiences that feel natural, load fast, and guide people to t
 - Portfolio: https://www.blackalsatian.co.za/portfolio/
 - Services: https://www.blackalsatian.co.za/services/
 - Contact: https://www.blackalsatian.co.za/contact/
-- Email: info@blackalsatian.com
+- Email: [https://www.blackalsatian.co.za/contact/](https://www.blackalsatian.co.za/contact/)
 - WhatsApp: https://wa.me/27605036601
 - Location: Gqeberha (Port Elizabeth), South Africa
 
@@ -73,7 +73,7 @@ Looking for a reliable partner for web design, development, or marketing? Tell u
 
 ## Security
 
-If you discover a security issue, please report it to info@blackalsatian.co.za.
+If you discover a security issue, please report it to [https://www.blackalsatian.co.za/contact/](https://www.blackalsatian.co.za/contact/).
 
 ## Legal
 
