@@ -1,8 +1,5 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="../assets/blackalsatian-logo-white.svg" />
-    <img src="../assets/blackalsatian-logo.svg" alt="Black Alsatian" width="260" />
-  </picture>
+  <img src="../assets/blackalsatian-logo.svg" alt="Black Alsatian" width="260" />
 </p>
 
 <p align="center">
@@ -25,8 +22,7 @@ We craft digital experiences that feel natural, load fast, and guide people to t
 - Portfolio: https://www.blackalsatian.co.za/portfolio/
 - Services: https://www.blackalsatian.co.za/services/
 - Contact: https://www.blackalsatian.co.za/contact/
-- Email: info@blackalsatian.co.za
-- Phone: +27 87 821 7172
+- Email: info@blackalsatian.com
 - WhatsApp: https://wa.me/27605036601
 - Location: Gqeberha (Port Elizabeth), South Africa
 
@@ -77,7 +73,7 @@ Looking for a reliable partner for web design, development, or marketing? Tell u
 
 ## Security
 
-If you discover a security issue, please report it to security@blackalsatian.co.za.
+If you discover a security issue, please report it to info@blackalsatian.co.za.
 
 ## Legal
 
